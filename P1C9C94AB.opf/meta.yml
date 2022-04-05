@@ -1,0 +1,31 @@
+id: P1C9C94AB
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA30463
+  instance_id: http://purl.bdrc.io/resource/IE30463
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - བོད་ཀྱི་གནའ་རབས་རྩོམ་རིག་གི་རིགས་དང་ལུས་ཀྱི་རྣམ་གཞག་ཚངས་པའི་ཚད་ཡིག
+  alt_title:
+    zh-latn-pinyin-x-ndia:
+    - zang zu gu dian wen xue wen lei yan jiu
+  author: http://purl.bdrc.io/resource/P8055
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: false
+  volumes:
+    63193dced0e548079e289c3926e7e8a2:
+      title: པོད ༡་བོད་ཀྱི་གནའ་རབས་རྩོམ་རིག་གི་རིགས་དང་ལུས་ཀྱི་རྣམ་གཞག་ཚངས་པའི་ཚད་ཡིག
+      volume_number: 1
+      base_file: UT30463_I1KG1830_0000.txt
+      reference: http://purl.bdrc.io/resource/VL75D7CE0650AD65B7
+      image_group: I1KG1830
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W30463
+  - http://purl.bdrc.io/resource/MW30463
+  ocr_software: Namsel
+created_at: '2021-12-22T11:19:15.169471'
+last_modified_at: '2021-12-22T11:19:15.169478'
